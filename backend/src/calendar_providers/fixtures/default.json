@@ -1,0 +1,211 @@
+{
+  "connections": {
+    "c0000000-0000-0000-0000-00000000000a": {
+      "fail": false,
+      "events": [
+        {
+          "external_id": "7kq2m9v1r3annualreview",
+          "ical_uid": "7kq2m9v1r3annualreview@google.com",
+          "title": "Annual financial review",
+          "description": "Yearly review with John and Jane Smith.",
+          "starts_at": "2026-10-21T10:00:00Z",
+          "ends_at": "2026-10-21T11:00:00Z",
+          "status": "CONFIRMED",
+          "organiser_email": "alice@harbourwealth.co.uk",
+          "attendees": [
+            { "email": "alice@harbourwealth.co.uk", "name": "Alice Carter", "rsvp": "ACCEPTED" },
+            { "email": "bob@harbourwealth.co.uk", "name": "Bob Singh", "rsvp": "ACCEPTED" },
+            { "email": "john.smith@example.com", "name": "John Smith", "rsvp": "ACCEPTED" },
+            { "email": "jane.smith@example.com", "name": "Jane Smith", "rsvp": "NEEDS_ACTION" }
+          ],
+          "updated_at": "2026-10-10T09:12:00Z"
+        },
+        {
+          "external_id": "3pd8x0w2pensionplanning",
+          "ical_uid": "3pd8x0w2pensionplanning@google.com",
+          "title": "Pension planning",
+          "starts_at": "2026-10-22T14:00:00Z",
+          "ends_at": "2026-10-22T15:00:00Z",
+          "status": "CONFIRMED",
+          "organiser_email": "alice@harbourwealth.co.uk",
+          "attendees": [
+            { "email": "alice@harbourwealth.co.uk", "name": "Alice Carter", "rsvp": "ACCEPTED" },
+            { "email": "sarah.jones@example.com", "name": "Sarah Jones", "rsvp": "ACCEPTED" }
+          ],
+          "updated_at": "2026-10-12T16:40:00Z"
+        },
+        {
+          "external_id": "9hf4c6catchupdavid",
+          "ical_uid": "9hf4c6catchupdavid@google.com",
+          "title": "Catch-up",
+          "starts_at": "2026-10-23T12:00:00Z",
+          "ends_at": "2026-10-23T12:30:00Z",
+          "status": "CONFIRMED",
+          "organiser_email": "alice@harbourwealth.co.uk",
+          "attendees": [
+            { "email": "alice@harbourwealth.co.uk", "name": "Alice Carter", "rsvp": "ACCEPTED" },
+            { "email": "david.brown@example.com", "name": "David Brown", "rsvp": "ACCEPTED" }
+          ],
+          "updated_at": "2026-10-14T08:05:00Z"
+        },
+        {
+          "external_id": "standupseries01_20261020T080000Z",
+          "ical_uid": "040000008200E00074C5B7101A82E00800000000D0A6C1F2STANDUP",
+          "recurring_event_id": "standupseries01",
+          "original_starts_at": "2026-10-20T08:00:00Z",
+          "title": "Weekly team stand-up",
+          "starts_at": "2026-10-20T08:00:00Z",
+          "ends_at": "2026-10-20T08:15:00Z",
+          "status": "CONFIRMED",
+          "organiser_email": "bob@harbourwealth.co.uk",
+          "attendees": [
+            { "email": "alice@harbourwealth.co.uk", "name": "Alice Carter", "rsvp": "ACCEPTED" },
+            { "email": "bob@harbourwealth.co.uk", "name": "Bob Singh", "rsvp": "ACCEPTED" }
+          ],
+          "updated_at": "2026-09-01T10:00:00Z"
+        },
+        {
+          "external_id": "standupseries01_20261027T090000Z",
+          "ical_uid": "040000008200E00074C5B7101A82E00800000000D0A6C1F2STANDUP",
+          "recurring_event_id": "standupseries01",
+          "original_starts_at": "2026-10-27T09:00:00Z",
+          "title": "Weekly team stand-up",
+          "starts_at": "2026-10-27T09:00:00Z",
+          "ends_at": "2026-10-27T09:15:00Z",
+          "status": "CONFIRMED",
+          "organiser_email": "bob@harbourwealth.co.uk",
+          "attendees": [
+            { "email": "alice@harbourwealth.co.uk", "name": "Alice Carter", "rsvp": "ACCEPTED" },
+            { "email": "bob@harbourwealth.co.uk", "name": "Bob Singh", "rsvp": "ACCEPTED" }
+          ],
+          "updated_at": "2026-09-01T10:00:00Z"
+        },
+        {
+          "external_id": "standupseries01_20261103T090000Z",
+          "ical_uid": "040000008200E00074C5B7101A82E00800000000D0A6C1F2STANDUP",
+          "recurring_event_id": "standupseries01",
+          "original_starts_at": "2026-11-03T09:00:00Z",
+          "title": "Weekly team stand-up",
+          "starts_at": "2026-11-03T09:00:00Z",
+          "ends_at": "2026-11-03T09:15:00Z",
+          "status": "CONFIRMED",
+          "organiser_email": "bob@harbourwealth.co.uk",
+          "attendees": [
+            { "email": "alice@harbourwealth.co.uk", "name": "Alice Carter", "rsvp": "ACCEPTED" },
+            { "email": "bob@harbourwealth.co.uk", "name": "Bob Singh", "rsvp": "ACCEPTED" }
+          ],
+          "updated_at": "2026-09-01T10:00:00Z"
+        }
+      ]
+    },
+    "c0000000-0000-0000-0000-00000000000b": {
+      "fail": false,
+      "events": [
+        {
+          "external_id": "AAMkAGI2THVSAAA=annualreview",
+          "ical_uid": "7kq2m9v1r3annualreview@google.com",
+          "title": "Annual financial review",
+          "description": "Yearly review with John and Jane Smith.",
+          "starts_at": "2026-10-21T10:00:00Z",
+          "ends_at": "2026-10-21T11:00:00Z",
+          "status": "CONFIRMED",
+          "organiser_email": "alice@harbourwealth.co.uk",
+          "attendees": [
+            { "email": "alice@harbourwealth.co.uk", "name": "Alice Carter", "rsvp": "ACCEPTED" },
+            { "email": "bob@harbourwealth.co.uk", "name": "Bob Singh", "rsvp": "ACCEPTED" },
+            { "email": "john.smith@example.com", "name": "John Smith", "rsvp": "ACCEPTED" },
+            { "email": "jane.smith@example.com", "name": "Jane Smith", "rsvp": "NEEDS_ACTION" }
+          ],
+          "updated_at": "2026-10-10T09:14:00Z"
+        },
+        {
+          "external_id": "AAMkAGI2THVSAAA=investment",
+          "ical_uid": "040000008200E00074C5B7101A82E00800000000F1B2C3D4INVEST",
+          "title": "Investment strategy",
+          "starts_at": "2026-10-23T09:30:00Z",
+          "ends_at": "2026-10-23T10:00:00Z",
+          "status": "CONFIRMED",
+          "organiser_email": "bob@harbourwealth.co.uk",
+          "attendees": [
+            { "email": "bob@harbourwealth.co.uk", "name": "Bob Singh", "rsvp": "ACCEPTED" },
+            { "email": "m.patel@patelfamilyoffice.co.uk", "name": "Meera Patel", "rsvp": "TENTATIVE" }
+          ],
+          "updated_at": "2026-10-15T11:20:00Z"
+        },
+        {
+          "external_id": "AAMkAGI2THVSAAA=catchupemma",
+          "ical_uid": "040000008200E00074C5B7101A82E00800000000A9B8C7D6CATCHUP",
+          "title": "Catch-up",
+          "starts_at": "2026-10-23T12:00:00Z",
+          "ends_at": "2026-10-23T12:30:00Z",
+          "status": "CONFIRMED",
+          "organiser_email": "bob@harbourwealth.co.uk",
+          "attendees": [
+            { "email": "bob@harbourwealth.co.uk", "name": "Bob Singh", "rsvp": "ACCEPTED" },
+            { "email": "emma.wilson@example.com", "name": "Emma Wilson", "rsvp": "ACCEPTED" }
+          ],
+          "updated_at": "2026-10-14T13:45:00Z"
+        },
+        {
+          "external_id": "AAMkAGI2THVSAAA=dentist",
+          "ical_uid": "040000008200E00074C5B7101A82E00800000000E5E5E5E5DENTIST",
+          "title": "Dentist",
+          "starts_at": "2026-10-22T08:00:00Z",
+          "ends_at": "2026-10-22T09:00:00Z",
+          "status": "CONFIRMED",
+          "organiser_email": "bob@harbourwealth.co.uk",
+          "attendees": [],
+          "updated_at": "2026-10-01T19:00:00Z"
+        },
+        {
+          "external_id": "AAMkAGI2THVSAAA=standup_20261020",
+          "ical_uid": "040000008200E00074C5B7101A82E00800000000D0A6C1F2STANDUP",
+          "recurring_event_id": "AAMkAGI2THVSAAA=standupseries",
+          "original_starts_at": "2026-10-20T08:00:00Z",
+          "title": "Weekly team stand-up",
+          "starts_at": "2026-10-20T08:00:00Z",
+          "ends_at": "2026-10-20T08:15:00Z",
+          "status": "CONFIRMED",
+          "organiser_email": "bob@harbourwealth.co.uk",
+          "attendees": [
+            { "email": "alice@harbourwealth.co.uk", "name": "Alice Carter", "rsvp": "ACCEPTED" },
+            { "email": "bob@harbourwealth.co.uk", "name": "Bob Singh", "rsvp": "ACCEPTED" }
+          ],
+          "updated_at": "2026-09-01T10:00:00Z"
+        },
+        {
+          "external_id": "AAMkAGI2THVSAAA=standup_20261027",
+          "ical_uid": "040000008200E00074C5B7101A82E00800000000D0A6C1F2STANDUP",
+          "recurring_event_id": "AAMkAGI2THVSAAA=standupseries",
+          "original_starts_at": "2026-10-27T09:00:00Z",
+          "title": "Weekly team stand-up",
+          "starts_at": "2026-10-27T09:00:00Z",
+          "ends_at": "2026-10-27T09:15:00Z",
+          "status": "CONFIRMED",
+          "organiser_email": "bob@harbourwealth.co.uk",
+          "attendees": [
+            { "email": "alice@harbourwealth.co.uk", "name": "Alice Carter", "rsvp": "ACCEPTED" },
+            { "email": "bob@harbourwealth.co.uk", "name": "Bob Singh", "rsvp": "ACCEPTED" }
+          ],
+          "updated_at": "2026-09-01T10:00:00Z"
+        },
+        {
+          "external_id": "AAMkAGI2THVSAAA=standup_20261103",
+          "ical_uid": "040000008200E00074C5B7101A82E00800000000D0A6C1F2STANDUP",
+          "recurring_event_id": "AAMkAGI2THVSAAA=standupseries",
+          "original_starts_at": "2026-11-03T09:00:00Z",
+          "title": "Weekly team stand-up",
+          "starts_at": "2026-11-03T09:00:00Z",
+          "ends_at": "2026-11-03T09:15:00Z",
+          "status": "CONFIRMED",
+          "organiser_email": "bob@harbourwealth.co.uk",
+          "attendees": [
+            { "email": "alice@harbourwealth.co.uk", "name": "Alice Carter", "rsvp": "ACCEPTED" },
+            { "email": "bob@harbourwealth.co.uk", "name": "Bob Singh", "rsvp": "ACCEPTED" }
+          ],
+          "updated_at": "2026-09-01T10:00:00Z"
+        }
+      ]
+    }
+  }
+}
